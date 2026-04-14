@@ -1,4 +1,4 @@
-# 🚀 Caso de Estudio: Alke Wallet - Arquitectura Empresarial (Módulo 9)
+# 🚀 Caso de Estudio: Alke Wallet - Arquitectura Empresarial (M9-M10)
 
 <p align="center">
   <img src="../Marca Personal/Marca Personal.jpg" alt="Nico | Enterprise Solutions Architect" width="100%" style="max-width: 600px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 243, 255, 0.3);">
@@ -19,8 +19,6 @@ Se implementó una arquitectura basada en el patrón **MVC (Model-View-Controlle
 - La persistencia de datos y el *audit trail* (logs) se migraron a **PostgreSQL** mediante el ORM **Sequelize**. 
 - La seguridad se blindó utilizando **JWT (JSON Web Tokens)** para el manejo de sesiones y **BcryptJS** para el encriptado asimétrico de credenciales.
 - Se configuró la subida de assets con **Multer** y se empaquetó la solución completa con **Docker** para asegurar consistencia entre entornos.
-
-## 🛠️ Herramientas Técnicas Utilizadas
 
 ## 🛠️ Herramientas Técnicas Utilizadas
 - **Core:** Node.js, Express.js.
@@ -45,9 +43,9 @@ Se implementó una arquitectura basada en el patrón **MVC (Model-View-Controlle
 - Containerización de procesos (Dockerización).
 - Testing unitario de ciclo de vida del software.
 
-## 🎯 Justificación de Elección
+## 🎯 Justificación de Elección (Valor de Negocio)
 
-Elegí **Alke Wallet** como mi gran *Caso de Estudio* porque condensa integralmente todos los conocimientos clave adquiridos. Refleja fielmente los desafíos operativos del mundo real en el sector tecnológico/financiero y demuestra un perfil técnico maduro, orientado no solo a "escribir código", sino a "diseñar soluciones corporativas robustas" como un **Enterprise Solutions Architect**.
+Elegí **Alke Wallet** como mi caso de estudio principal porque representa la **intersección crítica entre tecnología y rentabilidad**. No es solo un repositorio de código; es una demostración de cómo un **Enterprise Solutions Architect** puede mitigar riesgos financieros, optimizar el Time-to-Market y garantizar la continuidad operativa mediante el uso estratégico de IA y Cloud Sync.
 
 ## 🔌 Ecosistema de Integración
 
