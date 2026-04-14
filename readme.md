@@ -1,7 +1,7 @@
 # 🚀 Caso de Estudio: Alke Wallet - Arquitectura Empresarial (M9-M10)
 
 <p align="center">
-  <img src="../Marca Personal/Marca Personal.jpg" alt="Nico | Enterprise Solutions Architect" width="100%" style="max-width: 600px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 243, 255, 0.3);">
+  <img src="assets/Marca Personal.jpg" alt="Nico | Enterprise Solutions Architect" width="100%" style="max-width: 600px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 243, 255, 0.3);">
 </p>
 
 ## 📋 Descripción de la Actividad
